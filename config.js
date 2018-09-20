@@ -7,7 +7,7 @@ const config = {
    * Should be https for production. Must be https to use SSC auth service,
    * if supporting Sitecore authentication.
    */
-  apiHost: 'http://jssreactweb',
+  apiHost: 'https://jss-demo-env-425720-single.azurewebsites.net/',
   /**
    * layoutServiceRoot: The path to layout service for the JSS application.
    * Some apps, like advanced samples, use a custom LS configuration,
@@ -18,7 +18,7 @@ const config = {
    * apiKey: The Sitecore SSC API key your app uses.
    * Required.
    */
-  apiKey: '{YOUR API KEY HERE}',
+  apiKey: '{AA3DA2DF-4E65-493B-BA6F-B306C5517FD6}',
   /**
    * pathRewriteExcludeRoutes: A list of absolute paths
    * that are NOT app routes and should not attempt to render a route

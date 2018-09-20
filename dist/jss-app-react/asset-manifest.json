@@ -1,0 +1,11 @@
+{
+  "runtime~main.js": "/dist/jss-app-react/static/js/runtime~main.35a2d1de.js",
+  "runtime~main.js.map": "/dist/jss-app-react/static/js/runtime~main.35a2d1de.js.map",
+  "vendors.css": "/dist/jss-app-react/static/css/vendors.09c1c66f.chunk.css",
+  "vendors.js": "/dist/jss-app-react/static/js/vendors.b38c7844.chunk.js",
+  "vendors.js.map": "/dist/jss-app-react/static/js/vendors.b38c7844.chunk.js.map",
+  "main.css": "/dist/jss-app-react/static/css/main.2c0c7fd4.chunk.css",
+  "main.js": "/dist/jss-app-react/static/js/main.b3735d27.chunk.js",
+  "main.js.map": "/dist/jss-app-react/static/js/main.b3735d27.chunk.js.map",
+  "index.html": "/dist/jss-app-react/index.html"
+}
