@@ -4,7 +4,7 @@ const fs = require('fs');
 const escapeStringRegexp = require('escape-string-regexp');
 const scProxy = require('@sitecore-jss/sitecore-jss-proxy').default;
 const ipaddr = require('ipaddr.js');
-const app = require('./dist/JssAngularWeb/server.bundle');
+const app = require('./dist/jss-app-react/server.bundle');
 const config = require('./config');
 
 const server = express();
